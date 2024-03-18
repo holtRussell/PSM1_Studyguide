@@ -1,0 +1,15 @@
+- ideas -> value
+- One month or less -
+- Constantly on repeat
+- Everything to achieve Product Goal
+	- Predictablilty: work towards goal (redefined every month)
+- Should become canceled (By Product Owner) if Sprint Goal is obselete
+
+- ideas -> value
+- 1 month or less
+- self repeating
+- everything happens within the sprint
+- Ensure inspection at least once a month
+- Shorter = more learning + less risk
+- decisions made on what has happened, not what we think will happen
+- canceled by Product Owner if goal becomes obsolete
